@@ -3,5 +3,5 @@
 [Руководство по настройке Webpack](https://webpack.js.org/guides/)
 [Руководство по настройке GitHub Actions](https://docs.github.com/en/actions/quickstart)
 https://pavel19740404.github.io/Test_two/
-![CI](https://github.com/Pavel19740404/111/actions/workflows/web.yml/badge.svg)
+![CI](https://github.com/Pavel19740404/Test_two/actions/workflows/web.yml/badge.svg)
 
